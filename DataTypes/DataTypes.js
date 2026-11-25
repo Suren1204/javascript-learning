@@ -80,17 +80,19 @@
 
 //Ex 8:
 
-let deviceName = "Amazon Fire TV Stick 4K";
-let appName = "Xumo Play";
-let appVersion = "v5.1.149-update07";
-let deviceConnected = true;
-let appInstalled = true;
-let launchTime = 6.8;
-let selectedChannel = null;
-let selectedShows;
+// let deviceName = "Amazon Fire TV Stick 4K";
+// let appName = "Xumo Play";
+// let appVersion = "v5.1.149-update07";
+// let deviceConnected = true;
+// let appInstalled = true;
+// let launchTime = 6.8;
+// let selectedChannel = null;
+// let selectedShows;
 
-console.log("========== OTT QA TEST REPORT ==========");
-console.log("");
+// console.log("========== OTT QA TEST REPORT ==========");
+// console.log("");
+
+
 
 
 
